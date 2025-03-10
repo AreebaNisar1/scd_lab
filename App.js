@@ -1,3 +1,6 @@
 console.log("Areeba");
-if(Platform.OS === 'ios'){
-  console.log("You are using IOS");
+console.log("22i-8770");
+
+if (true) {
+  console.log("Hello World");
+}
